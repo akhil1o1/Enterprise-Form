@@ -31,4 +31,32 @@ export const itemOptions = [
       label: "E",
       value: "5",
    },
+   {
+      label: "F",
+      value: "6",
+   },
+   {
+      label: "G",
+      value: "7",
+   },
+   {
+      label: "H",
+      value: "8",
+   },
+   {
+      label: "I",
+      value: "9",
+   },
+   {
+      label: "J",
+      value: "10",
+   },
+   {
+      label: "K",
+      value: "11",
+   },
+   {
+      label: "L",
+      value: "12",
+   },
 ];
