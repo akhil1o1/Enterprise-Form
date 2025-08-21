@@ -132,14 +132,14 @@ export const Application = () => {
    });
 
    const {
-      control,
+      // control,
       handleSubmit,
       formState: { errors },
-      reset, // reset form with new values
-      setValue, // set value for a field
-      clearErrors, // clear errors for a field
-      setError, // set error for a field
-      watch, // watch value of a field
+       reset, // reset form with new values
+      // setValue, // set value for a field
+      // clearErrors, // clear errors for a field
+      // setError, // set error for a field
+      // watch, // watch value of a field
    } = methods;
    console.log(errors);
 
